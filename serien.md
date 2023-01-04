@@ -9,6 +9,7 @@ Avatar
 Babylon Berlin
 Blackadder
 Blackmirror
+Dead.Pixels
 Dear White People
 Deutschland 83
 Devs
@@ -25,6 +26,7 @@ Game.of.Thrones
 Ghost in the Shell
 Gomorrha
 Hannibal
+Happy
 Hellsing
 Hunters
 IT.Crowd
@@ -65,6 +67,7 @@ The Man in the high Castle
 The Orville
 The.Company
 The.Looming.Tower
+The.Pentaverate
 The.Walking.Dead
 The.Wire
 Triptank

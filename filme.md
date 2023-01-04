@@ -86,6 +86,7 @@ Bruegge.Sehen.und.Sterben
 Brüno
 Bs und Butthead
 Bube Dame König Gras
+Bullet.Train
 Bully
 Burn.After.Reading
 Butterfly.effect
@@ -123,6 +124,7 @@ Das.Brandneue.Testament
 Das.fuenfte.Element
 Das.geheime.Fenster
 Das.Kabinett.des.Dr.Parnassus
+Das.Leben.der.Anderen
 Dawn of the dead
 Dead.Man.Down
 deadgirl
@@ -442,6 +444,7 @@ Pusher
 Quentin.Tarantino.Fancollection
 Rambo IV
 Red Dragon
+Red.Sniper
 redbelt
 Religulous
 Renaissance
