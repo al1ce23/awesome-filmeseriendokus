@@ -9,6 +9,7 @@ Avatar
 Babylon Berlin
 Blackadder
 Blackmirror
+Close Enough
 Dead.Pixels
 Dear White People
 Deutschland 83
@@ -29,11 +30,13 @@ Hannibal
 Happy
 Hellsing
 Hunters
+Inside Job
 IT.Crowd
 Kenny.vs.Spenny
 Lilyhammer
 Little Britain
 Lost
+Lunatics
 Malcolm.Mittendrin
 Manhunt.Unabomber
 Michel.aus.Loenneberga
@@ -43,6 +46,8 @@ Mozart.in.the.Jungle
 Mr.Bean.Collection
 My.Name.is.Earl
 Mythbusters
+Norsemen
+Oatstudios
 Parks.and.Recreation
 Person.of.Interest
 Philip.K.Dicks.Electric.Dreams
@@ -62,9 +67,11 @@ Stargate
 Stromberg
 Testees
 The Boyz
+The Guardians of Justice
 The IT Crowd
 The Man in the high Castle
 The Orville
+The Umbrella Academy
 The.Company
 The.Looming.Tower
 The.Pentaverate

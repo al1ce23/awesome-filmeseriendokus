@@ -12,6 +12,7 @@
 23.Nichts.ist.so.wie.es.scheint
 28 Weeks Later
 30 Days of Night
+30 Minuten oder weniger
 300
 300.Rise.of.an.Empire
 39.90
@@ -44,6 +45,7 @@ American.Psycho
 Amok
 Ananas.Express
 Anleitung.zur.sexuellen.Unzufriedenheit
+Anon
 Antares
 anti christ
 Apocalypse Now
@@ -100,10 +102,13 @@ Christiane F
 City of God
 Cleaner
 Clerks 2
+Cloud Atlas
 Cloverfield
+Codename U.N.C.L.E.
 Codename.U.N.C.L.E
 Contagion
 Contractor
+Copshop
 Coraline
 Crank
 Crank 2
@@ -195,6 +200,7 @@ Django.Unchained
 DOA
 Dobermann
 Donnie Darko
+Don´t look up
 Doomsday
 Drecksau
 Drugstore Cowboy
@@ -451,8 +457,8 @@ Renaissance
 Requiem.For.A.Dream.
 Reservoir.Dogs
 Resident Evil - Apocalypse
-REVOLVER
 Revolver
+REVOLVER
 Riddick
 Righteous Kill
 robin hood
@@ -517,12 +523,14 @@ Texas Chainsaw Massacre
 thank you for smoking
 The 51 State
 the 5th
+The Ballad of Buster Scruggs
 The big White
 The Blair Witch Project
 the book of eli
 The day after tomorrow
 The Descent
 The Football Factory
+The Gentlemen
 the good cop
 The Hills Have Eyes 
 the human centipede
@@ -583,6 +591,7 @@ walkuere
 Wall-e
 waltz
 Wanted
+War Machine
 Warum Männer nicht zuhören und Frauen schlecht einparken
 Wasabi
 Watchmen.Die.Waechter
